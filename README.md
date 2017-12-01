@@ -1,4 +1,4 @@
-# contestr
+# contestooo
 Simple app to create tournaments and leagues
 
 # technology stack
